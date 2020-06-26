@@ -1,0 +1,11 @@
+<figure class="lightbox-figure">
+   <a class="lightbox" href="#{{ include.id | default: "img" }}">
+      <img src="{{ include.thumb | default: include.path }}" alt="{{ include.alt | default: "" }}">
+   </a>
+   {% if include.caption %}<figcaption class="lightbox-caption">{{ include.caption }}</figcaption>{% endif %}
+</figure>
+
+<div class="lightbox-target" id="{{ include.id | default: "img" }}">
+   <img src="{{ include.path }}"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
