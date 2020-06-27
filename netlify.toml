@@ -1,0 +1,7 @@
+[build]
+  command = jekyll build
+
+[[redirects]]
+  from = "/*"
+  to = "https://shutter-project.org/:splat"
+  status = 200
