@@ -1,5 +1,6 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 title: Shutter - Screenshot Tool
+description: Shutter - Screenshot Tool website
 paginate: 5
 paginate_path: "/blog/page:num"
 
@@ -19,3 +20,6 @@ defaults:
       layout: post
 #      image: https://via.placeholder.com/1200x800
 #      show_sidebar: true
+
+plugins:
+  - jekyll-feed

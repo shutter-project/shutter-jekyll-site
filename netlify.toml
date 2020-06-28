@@ -1,0 +1,8 @@
+[build]
+  command = "jekyll build"
+  publish = "_site/"
+
+[[redirects]]
+  from = "/*"
+  to = "https://shutter-project-wp-import.netlify.app/:splat"
+  status = 200
