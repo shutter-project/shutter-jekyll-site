@@ -3,6 +3,14 @@
   publish = "_site/"
 
 [[redirects]]
+  from = "/feed/atom"
+  to = "/feed.xml"
+
+[[redirects]]
+  from = "/feed"
+  to = "/feed.xml"
+
+[[redirects]]
   from = "/*"
   to = "https://shutter-project-wp-import.netlify.app/:splat"
   status = 200
