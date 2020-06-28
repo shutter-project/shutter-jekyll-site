@@ -41,3 +41,5 @@
   link: pages/contact
 - name: Blog
   link: blog
+- name: <i class="fas fa-rss-square"></i>
+  link: feed.xml
