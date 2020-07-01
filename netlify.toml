@@ -11,6 +11,14 @@
   to = "/feed.xml"
 
 [[redirects]]
+  from = "/about/about-the-team"
+  to = "/about/team"
+
+[[redirects]]
+  from = "/downloads"
+  to = "/downloads/third-party-packages"
+
+[[redirects]]
   from = "/*"
   to = "https://shutter-project-wp-import.netlify.app/:splat"
   status = 200
