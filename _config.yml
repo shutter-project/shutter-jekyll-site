@@ -11,6 +11,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
+      hero_image: /assets/img/shutter.svg
   -
     scope:
       path: ""
