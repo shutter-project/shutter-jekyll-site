@@ -41,5 +41,7 @@
   link: contact
 - name: Blog
   link: blog
-- name: <i class="fas fa-rss-square"></i>
+- name: <i class="fas fa-rss-square" title="RSS"></i>
   link: feed.xml
+- name: <i class="fab fa-twitter" title="Twitter"></i>
+  link: https://twitter.com/shutterproj
