@@ -1,12 +1,19 @@
 ### The Team
 
+<style>
+.content figure.lightbox-figure {
+margin:0;
+}
+</style>
+
 **Mario Kemper**, developer and project founder (retired in 2014)
 
 {% include image path="/assets/img/team/mario.jpg" id="mario" %} I work as a consultant with focus on software quality assurance. You might want to have a look at my [interview at https://blog.launchpad.net](http://blog.launchpad.net/projects/shutter) to read more about the reasons and goals of the project.
 
 I am addicted to free software and community driven projects. In addition to modest abilities in C/C++, PHP, Java and some experiences with .NET languages I am mostly interested in Perl (Shutter is written in Perl as well) nowadays.
 
-**Alexey Sokolov**, developer
+<p style="clear:both;"></p>
+**Alexey Sokolov**, Gentoo packaging, developer (2020)
 
 **Vadim Peretokin**, promotion, web presence and interface design
 
