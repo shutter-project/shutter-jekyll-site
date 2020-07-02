@@ -15,6 +15,9 @@ I am addicted to free software and community driven projects. In addition to mod
 <p style="clear:both;"></p>
 **Alexey Sokolov**, Gentoo packaging, developer (2020)
 
+I studied in Novosibirsk, then moved to Ireland to work as SRE/SWE.
+I didn't want Shutter to be removed from Gentoo due to the old dependencies going away, so had to update the code.
+
 **Vadim Peretokin**, promotion, web presence and interface design
 
 I’m an IT healthcare student in YorkU, Toronto. I’m interested in promoting quality open-source software and my work in Shutter includes expanding its popularity and interface design. Programming languages of interest are C and Vala.
