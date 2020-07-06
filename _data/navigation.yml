@@ -1,40 +1,32 @@
 - name: About
-  link: /#
+  link: about
   dropdown:
-  - name: About Shutter
-    link: about/about
   - name: The Team
     link: "about/team"
 - name: Downloads
-  link: /#
+  link: downloads/third-party-packages
   dropdown:
   - name: Third Party Packages
-    link: download/third-party-packages
+    link: downloads/third-party-packages
   - name: Source Code
-    link: download/source-code
+    link: downloads/source-code
   - name: Dependencies
-    link: download/dependencies/
+    link: downloads/dependencies/
 - name: FAQ & Help
-  link: #/
+  link: faq-help
   dropdown:
-  - name: FAQ & Help for Shutter
-    link: help/faq
   - name: Shutter as Default
-    link: help/shutter-as-default
+    link: faq-help/set-shutter-as-the-default-screenshot-tool # goes to the old website
   - name: Man Page
-    link: help/man-page
-- name: Preview
-  link: #/
+    link: faq-help/man-page
+- name: Screenshots
+  link: screenshots
   dropdown:
-  - name: Screenshots
-    link: preview/screenshots
   - name: Screencasts
-    link: preview/screencasts
+    link: screenshots/screencasts
 - name: Contribute
-  link: #/
+  link: contribute
   dropdown:
-  - name: Users
-    link: contribute/users
   - name: Developers
     link: contribute/developers
 - name: Contact
