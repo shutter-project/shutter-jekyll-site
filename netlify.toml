@@ -19,6 +19,14 @@
   to = "/downloads/third-party-packages"
 
 [[redirects]]
+  from = "/preview/screencasts"
+  to = "/screenshots/screencasts"
+
+[[redirects]]
+  from = "/preview/*"
+  to = "/screenshots"
+
+[[redirects]]
   from = "/*"
   to = "https://shutter-project-wp-import.netlify.app/:splat"
   status = 200

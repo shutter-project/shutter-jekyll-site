@@ -19,13 +19,11 @@
     link: faq-help/set-shutter-as-the-default-screenshot-tool # goes to the old website
   - name: Man Page
     link: faq-help/man-page
-- name: Preview
-  link: #/
+- name: Screenshots
+  link: screenshots
   dropdown:
-  - name: Screenshots
-    link: preview/screenshots
   - name: Screencasts
-    link: preview/screencasts
+    link: screenshots/screencasts
 - name: Contribute
   link: contribute
   dropdown:
