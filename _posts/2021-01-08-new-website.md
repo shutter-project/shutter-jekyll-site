@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New website
+author: Alexey Sokolov
 # subtitle: Excerpt from Soulshaping by Jeff Brown
 # cover-img: /assets/img/path.jpg
 # permalink: /releases/0-94-1
