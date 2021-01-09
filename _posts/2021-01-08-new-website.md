@@ -22,7 +22,7 @@ markdown](https://github.com/shutter-project/shutter-jekyll-site/tree/master/_po
 the help would be welcome!
 
 * [2018 Sep 12: Quick bug fix in 0.94.2](/2018/09/quick-bug-fix-in-0-94-2)
-* [2018 Sep 10: New bug fix release 0.94.1](/2018/09/new-bug-fix-release-0-94-1)
+* [2018 Sep 10: New bug fix release 0.94.1](/2018/09/new-bug-fix-release-0-94-1) <span style="color:red">(moved!)</span>
 * [2017 Sep 8: After a long time a new bug fix release 0.94!](/2017/09/after-a-long-time-a-new-bug-fix-release-0-94)
 * [2014 Dec 24: New bugfix release 0.93.1](/2014/12/new-bugfix-release-0-93-1)
 * [2014 Aug 17: Shutter 0.93 released](/2014/08/shutter-0-93-released)
