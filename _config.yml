@@ -3,6 +3,7 @@ title: Shutter - Screenshot Tool
 description: Shutter - Screenshot Tool website
 paginate: 5
 paginate_path: "/blog/page:num"
+permalink: pretty
 
 defaults:
   -
@@ -16,7 +17,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Michael Kogan"
+#      author: "Michael Kogan"
       layout: post
 #      image: https://via.placeholder.com/1200x800
 #      show_sidebar: true
