@@ -3,6 +3,7 @@ title: Shutter - Screenshot Tool
 description: Shutter - Screenshot Tool website
 paginate: 5
 paginate_path: "/blog/page:num"
+permalink: pretty
 
 defaults:
   -
