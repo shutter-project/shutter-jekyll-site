@@ -15,7 +15,7 @@ complicated static HTML pages, which resembles dynamic content. Current version
 uses [Jekyll](https://jekyllrb.com/).
 
 We didn't migrate all the blog content over, and the list of old blog entries
-is available [over here](/0000/00/00/old-blog). If you wish to help us migrate
+is available [over here](/1980/01/01/old-blog). If you wish to help us migrate
 the
 [content](https://github.com/shutter-project/shutter-project-website/tree/master/public)
 to [native jekyll and
