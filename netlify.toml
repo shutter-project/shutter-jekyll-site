@@ -11,11 +11,19 @@
   to = "/feed.xml"
 
 [[redirects]]
+  from = "/about"
+  to = "/"
+  force = true
+
+[[redirects]]
   from = "/about/about-the-team"
-  to = "/about/team"
+  to = "/team"
 [[redirects]]
   from = "/about-the-team"
-  to = "/about/team"
+  to = "/team"
+[[redirects]]
+  from = "/about/team"
+  to = "/team"
 
 [[redirects]]
   from = "/downloads"
