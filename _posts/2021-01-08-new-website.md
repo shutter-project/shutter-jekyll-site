@@ -6,6 +6,7 @@ author: Alexey Sokolov
 # cover-img: /assets/img/path.jpg
 # permalink: /releases/0-94-1
 # tags: [release-announcement]
+tags: [news]
 ---
 
 We have a new website (you're looking at it now!). The old layout was initially
