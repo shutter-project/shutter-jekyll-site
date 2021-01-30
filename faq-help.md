@@ -1,7 +1,7 @@
 ### FAQ & Help
 
 1. **I want Shutter to be the default tool to take screenshots with. How do I do that?**
-  Shutter provides a built-in functionality to setup the global shortcuts if you are using GNOME. A detailed description and solutions for other desktop environments are available [here](shutter-as-default).
+  Shutter provides a built-in functionality to setup the global shortcuts if you are using GNOME. A detailed description and solutions for other desktop environments are available [here](set-shutter-as-the-default-screenshot-tool).
 2. **I want to open my screenshot in an external application but the ‘Open with’ menu entry is empty. Why are my installed apps not listed here?**
   You don’t seem to have any mimeinfo.cache files. Try running the update-desktop-database command. If you  don’t have this command you should install the desktop-file-utils package.
 3. **Are there any plans to develop Shutter for Window, Mac OS or any other platform that is not GNU/Linux (or related)?**

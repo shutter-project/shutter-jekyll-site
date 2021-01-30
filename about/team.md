@@ -28,4 +28,4 @@ I’m an IT healthcare student in YorkU, Toronto. I’m interested in promoting 
 
 I studied theoretical physics in LMU Munich, will start my job as maths/physics teacher soon and am interested in eLearning technology. I got involved with Shutter from its early days as GScrot in 2008 by submitting the initial Russian translation and testing. In 2017 Shutter has been removed from the Arch Linux repositories to the AUR (Arch User Repository) and I took over the maintanence of its [AUR package](https://aur.archlinux.org/packages/shutter/). At the same time I asked Mario for access to the Launchpad repository and applied patches which were submitted by other Launchpad users fixing minor bugs. However, my coding skills are very limited (mostly JS and PHP) and I never wrote a single code line for Shutter myself.
 
-Please use the [contact form](../contact) if you want to get in touch with us.
+Please use the [contact form](/contact) if you want to get in touch with us.
