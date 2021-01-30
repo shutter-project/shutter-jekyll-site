@@ -50,4 +50,4 @@ We all spend much of our time in forums, wikis, chats etc. From time to time we 
 Shutter ships with a great variety of plugins that allow you to add impressive effects to your screenshots.
 
 * **Give Unique Look to Your Screenshots**  
-  A [picture](https://shutter-project.org/screenshots/plugins/) is worth a thousand words.
+  A [picture](/screenshots/plugins/) is worth a thousand words.
