@@ -5,7 +5,7 @@ author: Vadim
 # subtitle: Excerpt from Soulshaping by Jeff Brown
 # cover-img: /assets/img/path.jpg
 permalink: /releases/0.94.1/
-tags: [release-announcement]
+tags: [release]
 ---
 
 This is another bugfix release implementing further patches. Some upload plugins have been removed because the upload services have shut down (ITmages, Minus, TwitPic).
