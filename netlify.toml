@@ -13,9 +13,15 @@
 [[redirects]]
   from = "/about/about-the-team"
   to = "/about/team"
+[[redirects]]
+  from = "/about-the-team"
+  to = "/about/team"
 
 [[redirects]]
   from = "/downloads"
+  to = "/downloads/third-party-packages"
+[[redirects]]
+  from = "/faq-help/ppa-installation-guide/"
   to = "/downloads/third-party-packages"
 
 [[redirects]]
