@@ -1,34 +1,34 @@
 - name: Downloads
-  link: downloads/third-party-packages
+  link: /downloads/third-party-packages/
   dropdown:
   - name: Third Party Packages
-    link: downloads/third-party-packages
+    link: /downloads/third-party-packages/
   - name: Source Code
-    link: downloads/source-code
+    link: /downloads/source-code/
   - name: Dependencies
-    link: downloads/dependencies/
+    link: /downloads/dependencies/
 - name: FAQ & Help
-  link: faq-help
+  link: /faq-help/
   dropdown:
   - name: Shutter as Default
-    link: faq-help/set-shutter-as-the-default-screenshot-tool # goes to the old website
+    link: /faq-help/set-shutter-as-the-default-screenshot-tool # goes to the old website
   - name: Man Page
-    link: faq-help/man-page
+    link: /faq-help/man-page/
 - name: Screenshots
-  link: screenshots
+  link: /screenshots/
   dropdown:
   - name: Screencasts
-    link: screenshots/screencasts
+    link: /screenshots/screencasts/
 - name: Contribute
-  link: contribute
+  link: /contribute/
   dropdown:
   - name: Developers
-    link: contribute/developers
+    link: /contribute/developers/
 - name: Team
-  link: team
+  link: /team/
 - name: Contact
-  link: contact
+  link: /contact/
 - name: Blog
-  link: blog
+  link: /blog/
 - name: <i class="fas fa-rss-square"></i>
-  link: feed.xml
+  link: /feed.xml
