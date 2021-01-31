@@ -21,9 +21,6 @@
     link: /screenshots/screencasts/
 - name: Contribute
   link: /contribute/
-  dropdown:
-  - name: Developers
-    link: /contribute/developers/
 - name: Team
   link: /team/
 - name: Contact
