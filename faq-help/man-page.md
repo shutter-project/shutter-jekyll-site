@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ~~~
 SHUTTER(1)                                                     User Contributed Perl Documentation                                                     SHUTTER(1)
 

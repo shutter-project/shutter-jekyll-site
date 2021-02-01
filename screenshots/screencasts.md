@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ### Screencasts
 
 #### Selection Tool

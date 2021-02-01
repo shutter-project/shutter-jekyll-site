@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ### Developers
 
 #### How to write an upload plugin

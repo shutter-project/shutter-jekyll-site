@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ### Dependencies
 
 Note: If you are interested in the latest git snapshot or you want to use the tar.gz archives to get Shutter running on your system, please make sure you meet the dependencies (the name of the packages may differ):

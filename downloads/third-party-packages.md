@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ### Third Party Packages
 
 Shutter depends on several outdated libraries and therefore has been removed from some distribuitions' official repositories. Currently a GTK3 port is underway such that Shutter can be packaged for repositories again. In the mean time here is how you get the latest Shutter version for some distributions:

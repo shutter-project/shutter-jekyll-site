@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ### Screenshots
 
 Well, Shutter at its best: grabbing screenshots ;)
