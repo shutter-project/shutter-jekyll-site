@@ -26,6 +26,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
 
+exclude:
+  - netlify.toml
+  - Gemfile*
+
 autopages:
   enabled: true
   categories:
