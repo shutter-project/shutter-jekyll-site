@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ### Contribute
 
 Shutter is an [open-source](http://www.opensource.org/) program, and is available completely for free! You can contribute in many ways.

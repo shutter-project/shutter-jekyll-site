@@ -1,0 +1,22 @@
+<!-- replaced page loop with one compatible with jekyll-paginate-v2 -->
+<nav class="pagination is-centered">
+    {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination-previous is-info">Previous</a>
+    {% else %}
+    <p class="pagination-previous" disabled>Previous</p>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination-next is-info">Next</a>
+    {% else %}
+    <p class="pagination-next" disabled >Next</p>
+    {% endif %}
+    <ul class="pagination-list">
+	{% for trail in paginator.page_trail %}
+		{% if page.url == trail.path %}
+			<li><a class="pagination-link is-current">{{ trail.num }}</a></li>
+		{% else %}
+			<li><a href="{{ trail.path | prepend: site.baseurl | remove: "index.html" }}" class="pagination-link">{{ trail.num }}</a></li>
+		{% endif %}
+	{% endfor %}
+    </ul>
+</nav>

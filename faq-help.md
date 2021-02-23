@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ### FAQ & Help
 
 1. **I want Shutter to be the default tool to take screenshots with. How do I do that?**

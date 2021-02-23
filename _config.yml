@@ -1,8 +1,6 @@
 theme: bulma-clean-theme
 title: Shutter - Screenshot Tool
 description: Shutter - Screenshot Tool website
-paginate: 5
-paginate_path: "/blog/page:num"
 permalink: pretty
 footer_menu: footer_menu
 
@@ -26,3 +24,29 @@ defaults:
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
+
+exclude:
+  - netlify.toml
+  - Gemfile*
+
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts:
+      - autopage_tags.html
+    enabled: true
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page:num/'
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 5
+    after: 5

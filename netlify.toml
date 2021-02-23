@@ -41,10 +41,19 @@
   to = "/screenshots"
 
 [[redirects]]
+  from = "/category/news"
+  to = "/tag/news"
+[[redirects]]
+  from = "/category/release"
+  to = "/tag/release"
+[[redirects]]
+  from = "/category/*"
+  to = "/blog"
+
+[[redirects]]
   from = "/2018/09/quick-bug-fix-in-0-94-2"
   to = "/releases/0.94.2"
   force = true
-
 [[redirects]]
   from = "/2018/09/new-bug-fix-release-0-94-1"
   to = "/releases/0.94.1"
