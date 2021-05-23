@@ -37,18 +37,18 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
     * libfile-copy-recursive-perl (since 0.88)
     * libproc-simple-perl (since 0.88)
     * libsort-naturally-perl (since 0.88)
-    * libnumber-bytes-human-perl (NEW! since 0.95)
-    * libglib-object-introspection-perl (NEW! since 0.95)
+    * libnumber-bytes-human-perl (since 0.95)
+    * libglib-object-introspection-perl (since 0.95)
 
 #### Optional:
 
-  * libimage-exiftool-perl (since 0.87)  
+  * libimage-exiftool-perl (since 0.87)
   Enables Shutter to write Metadata (Orientation) when saving Jpeg-Files instead of simply rotating the image
-  * gnome-web-photo  
+  * gnome-web-photo
   Shutter uses gnome-web-photo to capture websites
-  * nautilus-sendto  
+  * nautilus-sendto
   Enables the “Send To…”-functionality in right-click menu and main menu (“Screenshot”)
-  * libnet-oauth-perl (since 0.93)  
+  * libnet-oauth-perl (since 0.93)
   Enables images upload to upload hosters using OAuth
 
 #### Not needed any more:
@@ -60,9 +60,9 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
   * libjson-xs-perl (no longer needed in versions >= 0.94.1)
   * libnet-dropbox-api-perl (no longer needed in versions >= 0.92)
   * libnet-dbus-glib-perl (no longer needed since Ubuntu One has been closed)
-  * libgtk2-perl
-  * libgtk2-imageview-perl
-  * libgnome2-wnck-perl
-  * libgoo-canvas-perl  
-  * libgtk2-appindicator-perl
-  * libgtk2-unique-perl
+  * libgtk2-perl (no longer needed in versions >= 0.96)
+  * libgtk2-imageview-perl (no longer needed in versions >= 0.96)
+  * libgnome2-wnck-perl (no longer needed in versions >= 0.96)
+  * libgoo-canvas-perl (no longer needed in versions >= 0.96)
+  * libgtk2-appindicator-perl (no longer needed in versions >= 0.96)
+  * libgtk2-unique-perl (no longer needed in versions >= 0.96)
