@@ -12,6 +12,7 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
     * [Gtk3::ImageView](https://metacpan.org/pod/Gtk3::ImageView) >= 9
     * [GooCanvas2](https://metacpan.org/pod/GooCanvas2)
     * [GooCanvas2::CairoTypes](https://metacpan.org/pod/GooCanvas2::CairoTypes)
+    * [Pango](https://metacpan.org/pod/Pango)
     * [libwnck-3](https://gitlab.gnome.org/GNOME/libwnck), used via Glib Object Introspection
   * Since before that:
     * libglib-perl
