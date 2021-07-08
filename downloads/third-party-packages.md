@@ -7,7 +7,7 @@ Shutter depends on several outdated libraries and therefore has been removed fro
 
 #### Arch Linux
 
-A [package for Arch Linux](https://aur.archlinux.org/packages/shutter/) is available in the AUR (Arch User Repository).
+A [package for Arch Linux](https://archlinux.org/packages/community/any/shutter/) is available.
 
 #### Debian
 
