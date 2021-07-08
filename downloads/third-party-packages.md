@@ -48,6 +48,10 @@ A description and reviews can be found [here](https://community.linuxmint.com/so
 
 A [package for Mageia](https://madb.mageia.org/package/show/name/shutter) is available.
 
+### Manjaro
+
+A package is in Manjaro testing repositories as of 8th of July 2021 that is expected to reach stable soon. Before this has happened, the package cannot be installed in Manjaro.
+
 #### openSUSE
 
 A [package for openSUSE](https://software.opensuse.org/package/shutter) is available.
