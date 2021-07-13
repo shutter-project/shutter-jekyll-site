@@ -50,7 +50,7 @@ A [package for Mageia](https://madb.mageia.org/package/show/name/shutter) is ava
 
 ### Manjaro
 
-A package is in Manjaro testing repositories as of 8th of July 2021 that is expected to reach stable soon. Before this has happened, the package cannot be installed in Manjaro.
+A [package for Manjaro](https://manjaro.org/branch-compare/?query=shutter) is available.
 
 #### openSUSE
 
