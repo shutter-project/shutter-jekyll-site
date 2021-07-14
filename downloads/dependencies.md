@@ -44,6 +44,8 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
 
 #### Optional:
 
+  * gir1.2-appindicator3 (since 0.96)
+    Without it, the tray icon will be missing on Gnome
   * libimage-exiftool-perl (since 0.87)
   Enables Shutter to write Metadata (Orientation) when saving Jpeg-Files instead of simply rotating the image
   * gnome-web-photo
