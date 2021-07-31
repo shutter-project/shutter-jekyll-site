@@ -3,7 +3,7 @@ layout: page
 ---
 ### Third Party Packages
 
-Shutter depends on several outdated libraries and therefore has been removed from some distribuitions' official repositories. Currently a GTK3 port is underway such that Shutter can be packaged for repositories again. In the mean time here is how you get the latest Shutter version for some distributions:
+Shutter was relying on several outdated libraries for several years and therefore has been removed from most distribuitions' official repositories. By now it has been ported to GTK3 and can be packaged for repositories again but hasn't been picked up by many distributions yet. The following list shows how you can get Shutter for some distributions. Please report packages, which are not listed below, or errors on [Github](https://github.com/shutter-project/shutter/issues/new/choose) or via our [contact form](https://shutter-project.org/contact/).
 
 #### Arch Linux
 
@@ -19,16 +19,18 @@ You can install Shutter by using the package manager or the following command:
 apt-get install shutter
 ~~~
 
+For newer Debian versions Shutter is currently not available and needs to be installed from source.
+
 
 #### Fedora
 
-Shutter is available in Fedora’s official repository, so just install it with:
+In Fedora 33 Shutter is available in the official repository, so just install it with:
 
 ~~~
-yum install shutter
+dnf install shutter
 ~~~
 
-Also, the most recent Shutter version can be installed using this [copr repository](https://copr.fedorainfracloud.org/coprs/mheffner/shutter/).
+In Fedora 34 Shutter can be installed using this [copr repository](https://copr.fedorainfracloud.org/coprs/geraldosimiao/shutter/).
 
 
 #### Gentoo
@@ -42,11 +44,11 @@ emerge shutter
 
 #### Linux Mint
 
-A description and reviews can be found [here](https://community.linuxmint.com/software/view/shutter). A [PPA by linuxuprising](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html) is available.
+A [PPA by linuxuprising](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html) is available.
 
 #### Mageia
 
-A [package for Mageia](https://madb.mageia.org/package/show/name/shutter) is available.
+A [package for Mageia](https://madb.mageia.org/package/show/name/shutter) is available though it is outdated.
 
 ### Manjaro
 
@@ -54,11 +56,11 @@ A [package for Manjaro](https://manjaro.org/branch-compare/?query=shutter) is av
 
 #### openSUSE
 
-A [package for openSUSE](https://software.opensuse.org/package/shutter) is available.
+[Packages for openSUSE](https://software.opensuse.org/package/shutter) are available though most of them are currently outdated.
 
 #### PCLinuxOS
 
-A [package for PCLinuxOS](https://pclinuxos.pkgs.org/rolling/pclinuxos-x86_64/shutter-0.94-1pclos2018.noarch.rpm.html) are available.
+A [package for PCLinuxOS](https://pclinuxos.pkgs.org/rolling/pclinuxos-x86_64/shutter-0.94-1pclos2018.noarch.rpm.html) is available though it is currently outdated.
 
 #### Red Hat Enterprise Linux (and Derivatives like CentOS, Scientific Linux etc.)
 
@@ -82,3 +84,5 @@ A [package for Slackware](https://slackbuilds.org/repository/14.2/graphics/shutt
 #### Ubuntu
 
 A [PPA by linuxuprising](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html) is available.
+
+
