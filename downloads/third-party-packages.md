@@ -83,6 +83,6 @@ A [package for Slackware](https://slackbuilds.org/repository/14.2/graphics/shutt
 
 #### Ubuntu
 
-A [PPA by linuxuprising](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html) is available. Also, the [official PPA](https://launchpad.net/~shutter/+archive/ubuntu/ppa) is now being maintained by the creator of Linuxuprising.com.
+The [official PPA](https://launchpad.net/~shutter/+archive/ubuntu/ppa) is now being maintained by the creator of Linuxuprising.com, who was previously maintaining the [unofficial Shutter PPA](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html).
 
 
