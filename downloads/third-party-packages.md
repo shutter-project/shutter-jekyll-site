@@ -44,7 +44,7 @@ emerge shutter
 
 #### Linux Mint
 
-A [PPA by linuxuprising](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html) is available.
+The [official PPA](https://launchpad.net/~shutter/+archive/ubuntu/ppa) is now being maintained by the creator of Linuxuprising.com, who was previously maintaining the [unofficial Shutter PPA](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html). Users of the unofficial PPA are advised to switch to the official PPA, since the unofficial PPA will only be maintained for a limited time.
 
 #### Mageia
 
@@ -83,6 +83,7 @@ A [package for Slackware](https://slackbuilds.org/repository/14.2/graphics/shutt
 
 #### Ubuntu
 
-The [official PPA](https://launchpad.net/~shutter/+archive/ubuntu/ppa) is now being maintained by the creator of Linuxuprising.com, who was previously maintaining the [unofficial Shutter PPA](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html).
+The [official PPA](https://launchpad.net/~shutter/+archive/ubuntu/ppa) is now being maintained by the creator of Linuxuprising.com, who was previously maintaining the [unofficial Shutter PPA](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html). Users of the unofficial PPA are advised to switch to the official PPA, since the unofficial PPA will only be maintained for a limited time.
+
 
 
