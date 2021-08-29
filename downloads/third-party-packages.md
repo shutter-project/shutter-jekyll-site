@@ -7,11 +7,15 @@ Shutter was relying on several outdated libraries for several years and therefor
 
 #### Arch Linux
 
-A [package for Arch Linux](https://archlinux.org/packages/community/any/shutter/) is available.
+A [package for Arch Linux](https://archlinux.org/packages/community/any/shutter/) is available, install it with
+
+~~~
+pacman -S shutter
+~~~
 
 #### Debian
 
-There are [official Debian packages](https://packages.debian.org/search?keywords=shutter&searchon=names&suite=all&section=all) available in the oldstable and oldoldstable distrubution (Stretch and Jessie).
+There are [official Debian packages](https://packages.debian.org/search?keywords=shutter&searchon=names&suite=all&section=all) available in the oldoldstable distrubution (Stretch).
 
 You can install Shutter by using the package manager or the following command:
 
@@ -24,18 +28,15 @@ For newer Debian versions Shutter is currently not available and needs to be ins
 
 #### Fedora
 
-In Fedora 33 Shutter is available in the official repository, so just install it with:
+A [package for Fedora](https://src.fedoraproject.org/rpms/shutter) for versions from 33 to 36 is available, install it with:
 
 ~~~
 dnf install shutter
 ~~~
 
-In Fedora 34 Shutter can be installed using this [copr repository](https://copr.fedorainfracloud.org/coprs/geraldosimiao/shutter/).
-
-
 #### Gentoo
 
-Shutter is included in [Gentoo Portage](https://packages.gentoo.org/packages/x11-misc/shutter), so just install it with:
+Shutter is included in [Gentoo Portage](https://packages.gentoo.org/packages/x11-misc/shutter), install it with:
 
 ~~~
 emerge shutter
