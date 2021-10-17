@@ -10,7 +10,7 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
   * Since 0.96:
     * [Carp:::Always](https://metacpan.org/pod/Carp::Always)
     * [Gtk3](https://metacpan.org/pod/Gtk3)
-    * [Gtk3::ImageView](https://metacpan.org/pod/Gtk3::ImageView) >= 9
+    * [Gtk3::ImageView](https://metacpan.org/pod/Gtk3::ImageView) >= 10
     * [GooCanvas2](https://metacpan.org/pod/GooCanvas2)
     * [GooCanvas2::CairoTypes](https://metacpan.org/pod/GooCanvas2::CairoTypes)
     * [Pango](https://metacpan.org/pod/Pango)
