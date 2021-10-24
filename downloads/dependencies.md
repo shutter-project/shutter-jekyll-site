@@ -44,6 +44,8 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
 
 #### Optional:
 
+  * xdg-desktop-portal (since 0.99.1) for Wayland support
+    * You will also need one of its backends installed, such as xdg-desktop-portal-kde, xdg-desktop-portal-gtk, xdg-desktop-portal-wlr, etc. The backend needs to match the wayland compositor you're using.
   * Either gir1.2-appindicator3 (since 0.96) or gir1.2-ayatanaappindicator3 (supported since 0.99)
     If neither is installed, the tray icon will be missing on Gnome
   * libimage-exiftool-perl (since 0.87)
