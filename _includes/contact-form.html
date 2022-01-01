@@ -1,4 +1,15 @@
-  <form action="https://getform.io/f/22dedaf5-8ca1-4dcc-b4b9-f26da1cdb6bf" method="POST">
+<script src="https://www.google.com/recaptcha/api.js?render=6Ldmw-IdAAAAABA8Kr3niHRaIYOYfQ95_9guzhMM"></script>
+
+<script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Ldmw-IdAAAAABA8Kr3niHRaIYOYfQ95_9guzhMM', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+</script>
+
+<form action="https://getform.io/f/22dedaf5-8ca1-4dcc-b4b9-f26da1cdb6bf" method="POST">
     <div class="form-group" style="display: block;">
       <label for="name">Name*:</label>
 	<br>
@@ -19,5 +30,6 @@
 	<br>
 	<textarea name="message" id="subject" class="form-control" required="required" cols="40" rows="5"></textarea>
     </div>
+    <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
     <button type="submit" class="btn btn-primary">Submit</button>
   </form>
