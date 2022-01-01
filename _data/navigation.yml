@@ -14,6 +14,8 @@
     link: /faq-help/set-shutter-as-the-default-screenshot-tool # goes to the old website
   - name: Man Page
     link: /faq-help/man-page/
+  - name: Workarounds
+    link: /faq-help/workarounds/
 - name: Screenshots
   link: /screenshots/
   dropdown:
