@@ -7,6 +7,8 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
 
 #### Mandatory:
 
+  * Since 0.99.3:
+    * [Moo](https://metacpan.org/pod/Moo)
   * Since 0.96:
     * [Carp:::Always](https://metacpan.org/pod/Carp::Always)
     * [Gtk3](https://metacpan.org/pod/Gtk3)
@@ -19,8 +21,6 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
     * libglib-perl
     * liblocale-gettext-perl
     * libxml-simple-perl
-    * libwww-mechanize-perl
-    * libwww-perl
     * libnet-dbus-perl
     * imagemagick
     * perlmagick
@@ -54,8 +54,6 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
   Shutter uses gnome-web-photo to capture websites
   * nautilus-sendto
   Enables the “Send To…”-functionality in right-click menu and main menu (“Screenshot”)
-  * libnet-oauth-perl (since 0.93)
-  Enables images upload to upload hosters using OAuth
 
 #### Not needed any more:
 
@@ -72,3 +70,6 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
   * libgoo-canvas-perl (no longer needed in versions >= 0.96)
   * libgtk2-appindicator-perl (no longer needed in versions >= 0.96)
   * libgtk2-unique-perl (no longer needed in versions >= 0.96)
+  * libwww-mechanize-perl (no longer needed in versions >= 0.99.3)
+  * libwww-perl (no longer needed in versions >= 0.99.3)
+  * libnet-oauth-perl (no longer needed in versions >= 0.99.3)
