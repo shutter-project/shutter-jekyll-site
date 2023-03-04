@@ -19,4 +19,5 @@ After a long time there is another bugfix release:
 * Added a visible warning about limited functionality on Wayland
 
 New dependency: [Moo](https://metacpan.org/pod/Moo)
-Dropped dependencies: libwww-mechanize-perl, libwww-perl, libnet-oauth-perl, 
+
+Dropped dependencies: libwww-mechanize-perl, libwww-perl, libnet-oauth-perl
