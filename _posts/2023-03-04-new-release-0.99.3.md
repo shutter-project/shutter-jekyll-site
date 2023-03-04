@@ -6,6 +6,8 @@ permalink: /releases/0.99.3/
 tags: [release]
 ---
 
+After a long time there is another bugfix release:
+
 * Improved code quality a bit, added a few unit tests (thanks to Alexander Ruzhnikov!)
 * Fixed font size in the editor
 * Fixed loading of profiles
@@ -17,3 +19,4 @@ tags: [release]
 * Added a visible warning about limited functionality on Wayland
 
 New dependency: [Moo](https://metacpan.org/pod/Moo)
+Dropped dependencies: libwww-mechanize-perl, libwww-perl, libnet-oauth-perl, 
