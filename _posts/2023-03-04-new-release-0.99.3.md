@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shutter 0.99.3
+title: Shutter 0.99.3 - some more bug fixes for 2023
 author: Alexey Sokolov
 permalink: /releases/0.99.3/
 tags: [release]
