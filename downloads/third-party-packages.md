@@ -76,8 +76,6 @@ rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.
 yum install shutter
 ~~~
 
-For RHEL 7 and 8 Shutter can be installed using snap following [these instructions](https://snapcraft.io/install/shutter/rhel).
-
 #### Slackware
 
 A [package for Slackware](https://slackbuilds.org/repository/14.2/graphics/shutter/?search=shutter) is available.
