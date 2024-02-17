@@ -7,7 +7,7 @@ Shutter was relying on several outdated libraries for several years and therefor
 
 #### Arch Linux
 
-A [package for Arch Linux](https://archlinux.org/packages/community/any/shutter/) is available, install it with
+A [package for Arch Linux](https://archlinux.org/packages/extra/any/shutter/) is available, install it with
 
 ~~~
 pacman -S shutter
@@ -15,20 +15,16 @@ pacman -S shutter
 
 #### Debian
 
-There are [official Debian packages](https://packages.debian.org/search?keywords=shutter&searchon=names&suite=all&section=all) available in the oldoldstable distrubution (Stretch).
-
+[Debian packages](https://packages.debian.org/search?keywords=shutter) are available.
 You can install Shutter by using the package manager or the following command:
 
 ~~~
 apt-get install shutter
 ~~~
 
-For newer Debian versions Shutter is currently not available and needs to be installed from source.
-
-
 #### Fedora
 
-A [package for Fedora](https://src.fedoraproject.org/rpms/shutter) for versions from 33 to 36 is available, install it with:
+[Packages for Fedora](https://src.fedoraproject.org/rpms/shutter) are available, install Shutter with:
 
 ~~~
 dnf install shutter
@@ -45,44 +41,40 @@ emerge shutter
 
 #### Linux Mint
 
-The [official PPA](https://launchpad.net/~shutter/+archive/ubuntu/ppa) is now being maintained by the creator of Linuxuprising.com, who was previously maintaining the [unofficial Shutter PPA](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html). Users of the unofficial PPA are advised to switch to the official PPA, since the unofficial PPA will only be maintained for a limited time.
+There are packages for [Linux Mint](https://community.linuxmint.com/software/view/shutter), install Shutter with
 
-#### Mageia
-
-A [package for Mageia](https://madb.mageia.org/package/show/name/shutter) is available though it is outdated.
+~~~
+apt-get install shutter
+~~~
 
 ### Manjaro
 
-A [package for Manjaro](https://manjaro.org/branch-compare/?query=shutter) is available.
+A [package for Manjaro](https://software.manjaro.org/package/shutter) is available. Install Shutter with
+
+~~~
+pacman -S shutter
+~~~
 
 #### openSUSE
 
-[Packages for openSUSE](https://software.opensuse.org/package/shutter) are available though most of them are currently outdated.
+There is an up to date community package for [openSUSE Leap](https://build.opensuse.org/package/show/home%3ASauerland/shutter) as well as [outdated packages for some other openSUSE versions](https://software.opensuse.org/package/shutter).
 
 #### PCLinuxOS
 
-A [package for PCLinuxOS](https://pclinuxos.pkgs.org/rolling/pclinuxos-x86_64/shutter-0.94-1pclos2018.noarch.rpm.html) is available though it is currently outdated.
+A [package for PCLinuxOS 2018](https://pclinuxos.pkgs.org/rolling/pclinuxos-x86_64/shutter-0.94-1pclos2018.noarch.rpm.html) is available though it is currently outdated.
 
-#### Red Hat Enterprise Linux (and Derivatives like CentOS, Scientific Linux etc.)
-
-One of our users (Nux) provides a small repository for RHEL 7. The repository is designed to coexist with Fedora’s [EPEL repository](https://fedoraproject.org/wiki/EPEL/FAQ#What_is_EPEL.3F).
-In order to add those repos to your system and install Shutter you can use the following commands:
-
-~~~
-rpm -Uvh http://download.fedoraproject.org/pub/epel/7/i386/epel-release-7-8.noarch.rpm
-
-rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
-
-yum install shutter
-~~~
 
 #### Slackware
 
-A [package for Slackware](https://slackbuilds.org/repository/14.2/graphics/shutter/?search=shutter) is available.
+A [package for Slackware](https://slackbuilds.org/result/?search=shutter&sv=) is available though it is currently outdated.
 
 #### Ubuntu
 
-The [official PPA](https://launchpad.net/~shutter/+archive/ubuntu/ppa) is now being maintained by the creator of Linuxuprising.com, who was previously maintaining the [unofficial Shutter PPA](https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html). Users of the unofficial PPA are advised to switch to the official PPA, since the unofficial PPA will only be maintained for a limited time.
+There are packages for [Ubuntu](https://packages.ubuntu.com/search?keywords=shutter), install Shutter with
+
+~~~
+apt-get install shutter
+~~~
 
 
 
