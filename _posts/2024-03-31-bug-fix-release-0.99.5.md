@@ -16,7 +16,7 @@ Bug fixes:
 * Check to prevent user setting a filename pattern without wildcards, which lead to crashes
 * Fixed crash on Wayland under some circumstances
 * Fixed crash when the autostart .desktop file is not writable
-* Fixed handling images pasted from clipboard: they are now handled the same as screenshots mady by Shutter itself, rather than being put into /tmp
+* Fixed handling images pasted from clipboard: they are now handled the same as screenshots made by Shutter itself, rather than being put into /tmp
 * Fixed error when using the -s option with a zero coordinate for the selection origin
 
 New features:
