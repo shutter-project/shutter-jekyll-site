@@ -43,7 +43,7 @@ Note: If you are interested in the latest git snapshot or you want to use the ta
     * libglib-object-introspection-perl (since 0.95)
 
 #### Optional:
-
+  * webp-pixbuf-loader (since 0.99.5) for WebP support
   * xdg-desktop-portal (since 0.99.1) for Wayland support
     * You will also need one of its backends installed, such as xdg-desktop-portal-kde, xdg-desktop-portal-gtk, xdg-desktop-portal-wlr, etc. The backend needs to match the wayland compositor you're using.
   * Either gir1.2-appindicator3 (since 0.96) or gir1.2-ayatanaappindicator3 (supported since 0.99)
