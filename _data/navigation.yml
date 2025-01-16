@@ -36,3 +36,5 @@
       link: /tag/news/
 - name: <i class="fas fa-rss-square"></i>
   link: /feed.xml
+- name: Donate
+  link: "https://www.paypal.com/donate/?hosted_button_id=U83NMZ68BFFN4"
