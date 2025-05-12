@@ -9,6 +9,8 @@ Latest code snapshot:
 
 If you are interested in the latest snapshot you can checkout our [git repository at GitHub](https://github.com/shutter-project/shutter)
 
+Before proceeding with the installation please make sure to have installed all [necessary dependencies](https://shutter-project.org/downloads/dependencies/).
+
 To install the source code with standard prefix (`/usr/local`) run
 
 ~~~
