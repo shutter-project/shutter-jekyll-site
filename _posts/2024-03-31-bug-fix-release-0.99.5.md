@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: release
 title: Shutter 0.99.5 - more bug fixes
 author: Michael Kogan
 permalink: /releases/0.99.5/
+version: 0.99.5
 tags: [release]
 ---
 

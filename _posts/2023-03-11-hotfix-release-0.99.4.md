@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: release
 title: Shutter 0.99.4 - fix crash for new installs
 author: Michael Kogan
 permalink: /releases/0.99.4/
+version: 0.99.4
 tags: [release]
 ---
 
