@@ -15,4 +15,4 @@ Nevertheless, this is an open-source project and anyone could start a port of Sh
 4. **Are there any plans to add Wayland support in Shutter?**
    Shutter is mostly in maintanence mode since its original developer's withdrawal and the GTK3 port several years later. The current dev team gives its best to keep Shutter afloat and fix the most pressing issues. However, Wayland support is a very big task and there are several technical difficulties that need to be overcome. Though we understand that this is a major issue for Wayland users, we are currently unable to solve the technical problems and add full Wayland support to Shutter. For the moment Shutter supports only full screen capture in Wayland. Additional features like the editor, image uploading, plugins etc. are available as well. You can find the discussion regarding Wayland support [here](https://github.com/shutter-project/shutter/issues/187).
 
-If you have further questions, please [contact us](contact)!
+If you have further questions, please [contact us](../contact)!
